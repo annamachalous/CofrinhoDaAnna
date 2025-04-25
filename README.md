@@ -46,13 +46,6 @@ Foi desenvolvido como prática de orientação a objetos e lógica de programaç
 
 ---
 
-## 📷 Print (simulação em terminal)
-
-> Em breve coloco uma imagem aqui! 🖼️  
-> (ou posso colocar pra você se quiser me mandar a saída do terminal!)
-
----
-
 ## 👩‍💻 Feito com carinho por
 
 [Anna Machalous](https://github.com/annamachalous)  
